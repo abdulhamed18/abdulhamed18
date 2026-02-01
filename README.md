@@ -9,6 +9,7 @@
 ## 🗂️ PROFESSIONAL SUMMARY
 Cybersecurity student with practical experience in security monitoring, firewall configuration, and log analysis.  
 Focused on developing skills in **SOC operations**, **SIEM engineering**, and **incident response** with a strong interest in applying **AI for network threat detection**.
+> `"Silence in the logs means danger."`
 
 ---
 
@@ -88,6 +89,3 @@ Focused on developing skills in **SOC operations**, **SIEM engineering**, and **
 
 
 ---
-
-> *“Detection is the first step toward defense.”*
-> `"Silence in the logs means danger."`
