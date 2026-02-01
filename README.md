@@ -1,69 +1,81 @@
-# 👋 Hi, I'm **Abdul Hameed**
+# 🧑‍💻 ABDUL HAMEED  
+> `Initializing secure shell...`  
+> `Identity confirmed.`  
+> `Loading cyber profile...`
 
-> 🧠 *Student | Cybersecurity Practitioner | SIEM & SOC Enthusiast*
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+## 🕶️ INTRO
+💀 **Cybersecurity Student | SOC & SIEM Learner | DFIR Explorer**  
+🧬 Living in logs, packets, and firewalls  
+🌑 Training to detect threats before they strike  
 
-- ⚡ Building skills in defense, detection, and response
-- 🛡️ Learning how to stop attackers before they succeed
-
-
----
-
-## 🧩 ABOUT ME
-━━━━━━━━━━━━━━━━━━━━━━
-- 🎓 Cybersecurity student with hands-on practice  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+## 🧠 ABOUT ME
+- 🎓 Student working in the cyber field  
 - 🐧 Linux user for ~3 years  
-- 🔍 Worked with **Wazuh SIEM**, **OPNsense firewall**, and **Linux firewalls (Ubuntu)**  
-- 🚀 Currently focused on:
+- 🛡️ Experience with:
+  - Wazuh SIEM  
+  - OPNsense Firewall  
+  - Linux firewalls (Ubuntu)  
+- ⚙️ Currently learning:
   - SOC operations  
   - SIEM engineering  
-  - SOAR & DFIR  
+  - SOAR automation  
+  - DFIR (Digital Forensics & Incident Response)  
 
----
+> `"Silence in the logs means danger."`
 
-## 🛠️ SKILLS
-━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+## 🧾 CERTIFICATIONS
+- 🏴‍☠️ **CEH – Certified Ethical Hacker**  
+- ☁️ **Google Cybersecurity Certificate**  
+- 🌐 **Cisco Networking Basics**
 
-**💻 Languages**
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+## 🧩 SKILLS
+**Languages**
 - Python  
 - SQL  
 - HTML  
 
-**🧰 Security & Networking**
-- SIEM (Wazuh)  
-- Firewalls (OPNsense, UFW)  
+**Security Concepts**
 - Log Analysis  
-- Incident Detection  
+- Intrusion Detection  
+- Firewall Rules  
+- Incident Response  
+- Network Monitoring  
 
-**🐧 Platforms & Tools**
-- Linux (Ubuntu, Kali)  
-- Wireshark  
-- Kali Linux security tools  
-- VirtualBox  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+## 🛠️ TOOLS
+- 🐧 Kali Linux  
+- 🐧 Ubuntu Linux  
+- 🔎 Wireshark  
+- 🧠 Wazuh SIEM  
+- 🔥 OPNsense Firewall  
+- 🧪 VirtualBox  
+- 🧰 Linux security tools  
 
----
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 ## 🧪 PROJECTS
-━━━━━━━━━━━━━━━━━━━━━━
-- 🔐 **Wazuh Active Response Labs**  
-  → SSH brute-force detection & blocking  
+- 🛡️ **Wazuh Security Labs**  
+  - SSH brute-force detection  
+  - Active response automation  
+  - Log monitoring & alerting  
 
-- 🧱 **Firewall Practice (OPNsense + Linux)**  
-  → Network filtering & rule testing  
+- 🧱 **Firewall Projects (OPNsense + Linux)**  
+  - Traffic filtering  
+  - Rule testing  
+  - Network isolation  
 
-- 🧠 **SOC Learning Labs**  
-  → Log analysis & alert investigation  
+- 🤖 **Final Year Project (FYP)**  
+  **AI-Based Intrusion Prevention System for Core Network Threats**  
+  - ML-based attack detection  
+  - Network traffic analysis  
+  - Automatic blocking logic  
 
-*(More projects coming as I grow 🚀)*
-
----
-
-## 🌐 SOCIAL LINKS
-━━━━━━━━━━━━━━━━━━━━━━
-
-[![Email](https://img.shields.io/badge/Email-uop.hameed@gmail.com-red?style=for-the-badge&logo=email)](mailto:uop.hameed@gmail.com)  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+## 📡 CONTACT
+[![Email](https://img.shields.io/badge/Email-uop.hameed@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:uop.hameed@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abdulhameed18-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdulhameed18)
 
----
-
----
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
