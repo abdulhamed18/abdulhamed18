@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ABDUL HAMEED</h1>
+<h1 align="center">Hi, I'm ABDUL HAMEED</h1>
 <h3 align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=400&center=true&vCenter=true&width=550&lines=SOC+Analyst;SIEM+Engineer;CyberSecurity+Learner;AI+Enthusiast" />
 </h3>
@@ -16,11 +16,11 @@
 ## 🛠 Skills
 **Languages:**  
 - Python  
-- Java  
+- SQL
 - HTML  
 
 **Tools & Tech:**  
-- Git  
+-   
 - Linux  
 - VS Code  
 
