@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm [your name or username] 👋
 
-<!--
-**abdulhamed18/abdulhamed18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Role:** SOC Analyst
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- [Python]
+- [Java]
+- [HTML]
+- [Add more skills here]
+
+---
+
+## 📚 Currently Learning
+- [React]
+- [AI / Data Science / Cybersecurity / etc.]
+
+---
+
+## 🎯 Interests
+- [Cybersecurity]
+- [Mobile Apps]
+- [Open Source]
+- [Other interests]
+
+---
+
+## 😄 Fun Fact
+- [Something about you]
+
+---
+
+## 📫 Contact
+- Email: [your email]  
+- LinkedIn: [your LinkedIn link]  
+
+---
+
+⭐ *Thanks for visiting my profile!*
