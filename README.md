@@ -1,39 +1,49 @@
-# Hi, I'm [your name or username] 👋
+<h1 align="center">Hi 👋, I'm ABDUL HAMEED</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=STUDENT;SOFTWARE+DEVELOPER;CYBERSECURITY+LEARNER;AI+ENTHUSIAST" />
+</h3>
 
-🎓 **Role:** SOC Analyst
+---
+
+## 🚀 About Me
+- 🎓 Role: YOUR ROLE (Student / Developer / Engineer)
+- 🌱 Currently learning: YOUR LEARNING TOPICS
+- 🎯 Interests: YOUR INTERESTS
+- 😄 Fun fact: YOUR FUN FACT
 
 ---
 
 ## 🛠 Skills
-- [Python]
-- [Java]
-- [HTML]
-- [Add more skills here]
+**Languages:**  
+- Python  
+- Java  
+- HTML  
+
+**Tools & Tech:**  
+- Git  
+- Linux  
+- VS Code  
 
 ---
 
 ## 📚 Currently Learning
-- [React]
-- [AI / Data Science / Cybersecurity / etc.]
+- React  
+- Artificial Intelligence  
+- Data Science  
 
 ---
 
-## 🎯 Interests
-- [Cybersecurity]
-- [Mobile Apps]
-- [Open Source]
-- [Other interests]
+## 🌐 Connect with Me
+- 📧 Email: YOUR EMAIL  
+- 💼 LinkedIn: YOUR LINK  
+- 🐙 GitHub: https://github.com/YOUR_USERNAME  
 
 ---
 
-## 😄 Fun Fact
-- [Something about you]
-
----
-
-## 📫 Contact
-- Email: [your email]  
-- LinkedIn: [your LinkedIn link]  
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
