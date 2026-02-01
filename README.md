@@ -50,12 +50,12 @@ Focused on developing skills in **SOC operations**, **SIEM engineering**, and **
 ---
 
 ## 🧰 TOOLS & PLATFORMS
-- Linux (Kali, Ubuntu)  
+- Linux
 - Wazuh SIEM  
 - OPNsense Firewall  
 - Wireshark  
 - VirtualBox  
-- Common Kali Linux security tools  
+- Other Linux security tools  
 
 ---
 
