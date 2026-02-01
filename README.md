@@ -59,22 +59,26 @@ Focused on developing skills in **SOC operations**, **SIEM engineering**, and **
 
 ---
 
-## 🧪 PROJECTS
-### 🔐 Wazuh Security Labs
-- SSH brute-force detection  
+## 🗃️ PROJECTS
+
+### 🧠 SIEM & SOC Labs (Wazuh)
+- Centralized log collection from endpoints  
+- SSH brute-force attack detection  
+- Alert correlation and incident analysis  
 - Active response automation  
-- Log collection and alert analysis  
 
-### 🧱 Firewall Configuration Projects
-- Network traffic filtering using OPNsense  
+### 🌐 Firewall & Network Security Projects
+- Network segmentation using OPNsense  
+- Blocking traffic from specific websites and countries  
 - Linux firewall rule testing and validation  
-- Network segmentation practice  
+- Secure inbound and outbound traffic filtering  
 
-### 🤖 Final Year Project (FYP)
-**AI-Based Intrusion Prevention System for Core Network Threats**
-- Machine learning–based attack detection  
-- Network traffic feature extraction  
+### 🤖 AI Expansion
+**AI-Based Intrusion Prevention System for Core Network Threats [FYP]**
+- Feature extraction from traffic  
+- ML model for attack classification  
 - Automated blocking and prevention logic  
+
 
 ---
 
@@ -86,3 +90,4 @@ Focused on developing skills in **SOC operations**, **SIEM engineering**, and **
 ---
 
 > *“Detection is the first step toward defense.”*
+> `"Silence in the logs means danger."`
