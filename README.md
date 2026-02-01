@@ -6,13 +6,13 @@
 
 ---
 
-## 🧭 PROFESSIONAL SUMMARY
+## 🗂️ PROFESSIONAL SUMMARY
 Cybersecurity student with practical experience in security monitoring, firewall configuration, and log analysis.  
 Focused on developing skills in **SOC operations**, **SIEM engineering**, and **incident response** with a strong interest in applying **AI for network threat detection**.
 
 ---
 
-## 🧠 ABOUT ME
+## 👤 ABOUT ME
 - 🎓 Cybersecurity student with hands-on lab experience  
 - 🐧 Linux user for ~3 years  
 - 🛡️ Experience with:
