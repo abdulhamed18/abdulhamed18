@@ -87,5 +87,3 @@ Focused on developing skills in **SOC operations**, **SIEM engineering**, and **
 [![Email](https://img.shields.io/badge/Email-uop.hameed@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:uop.hameed@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abdulhameed18-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdulhameed18)
 
-
----
