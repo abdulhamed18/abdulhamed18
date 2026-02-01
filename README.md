@@ -60,15 +60,10 @@
 ## 🌐 SOCIAL LINKS
 ━━━━━━━━━━━━━━━━━━━━━━
 
-[![Email](https://img.shields.io/badge/Email-uop.hameed@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:uop.hameed@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-uop.hameed@gmail.com-red?style=for-the-badge&logo=email)](mailto:uop.hameed@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abdulhameed18-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdulhameed18)
 
 ---
-
-## 📊 GITHUB STATS
-━━━━━━━━━━━━━━━━━━━━━━
-
-![Stats](https://github-readme-stats.vercel.app/api?username=abdulhamed18&show_icons=true&theme=tokyonight)
 
 ---
 
