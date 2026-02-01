@@ -1,22 +1,22 @@
-# 🧑‍💻 ABDUL HAMEED  
+# ABDUL HAMEED  
 > `Initializing secure shell...`  
 > `Identity confirmed.`  
 > `Loading cyber profile...`
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-## 🕶️ INTRO
+## INTRO
 💀 **Cybersecurity Student | SOC & SIEM Learner | DFIR Explorer**  
 🧬 Living in logs, packets, and firewalls  
 🌑 Training to detect threats before they strike  
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-## 🧠 ABOUT ME
-- 🎓 Student working in the cyber field  
+## ABOUT ME
+- 🎓 Student working in the cybersecurity field  
 - 🐧 Linux user for ~3 years  
 - 🛡️ Experience with:
   - Wazuh SIEM  
   - OPNsense Firewall  
-  - Linux firewalls (Ubuntu)  
+  - OS firewalls  
 - ⚙️ Currently learning:
   - SOC operations  
   - SIEM engineering  
@@ -26,13 +26,13 @@
 > `"Silence in the logs means danger."`
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-## 🧾 CERTIFICATIONS
+## CERTIFICATIONS
 - 🏴‍☠️ **CEH – Certified Ethical Hacker**  
 - ☁️ **Google Cybersecurity Certificate**  
 - 🌐 **Cisco Networking Basics**
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-## 🧩 SKILLS
+## SKILLS
 **Languages**
 - Python  
 - SQL  
@@ -46,7 +46,7 @@
 - Network Monitoring  
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-## 🛠️ TOOLS
+## TOOLS
 - 🐧 Kali Linux  
 - 🐧 Ubuntu Linux  
 - 🔎 Wireshark  
@@ -56,7 +56,7 @@
 - 🧰 Linux security tools  
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-## 🧪 PROJECTS
+##  PROJECTS
 - 🛡️ **Wazuh Security Labs**  
   - SSH brute-force detection  
   - Active response automation  
@@ -74,7 +74,7 @@
   - Automatic blocking logic  
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-## 📡 CONTACT
+## CONTACT
 [![Email](https://img.shields.io/badge/Email-uop.hameed@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:uop.hameed@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abdulhameed18-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdulhameed18)
 
