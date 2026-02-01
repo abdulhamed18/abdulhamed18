@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ABDUL HAMEED</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=STUDENT;SOFTWARE+DEVELOPER;CYBERSECURITY+LEARNER;AI+ENTHUSIAST" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=400&center=true&vCenter=true&width=550&lines=SOC+Analyst;SIEM+Engineer;CYBERSECURITY+LEARNER;AI+ENTHUSIAST" />
 </h3>
 
 ---
