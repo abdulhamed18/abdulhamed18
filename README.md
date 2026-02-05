@@ -42,11 +42,13 @@ Focused on developing skills in **SOC operations**, **SIEM engineering**, and **
 - HTML  
 
 **Security & Networking**
-- Log analysis  
-- Intrusion detection  
-- Firewall configuration  
-- Incident response basics  
-- Network monitoring  
+- SIEM monitoring and alert triage
+- Log analysis (Windows, Linux, firewall, proxy)
+- Incident detection and initial response
+- IDS/IPS and network traffic analysis
+- IOC identification and enrichment
+- Basic threat intelligence analysis
+- Incident documentation and reporting 
 
 ---
 
